@@ -1,0 +1,25 @@
+.link-service .icon-link {
+  width: 100%;
+  background: #eaf4fa;
+  border-bottom: 1px solid #f0fef7;
+  font-weight: 600;
+  list-style: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.link-service img {
+  width: 100%;
+}
+.link-service .icon-left {
+  width: 45px;
+  float: left;
+  padding-top: 5px;
+}
+.link-service .icon-link td {
+  display: table-cell;
+  padding: 5px;
+}
+.link-service .link-right a {
+  color: black;
+}

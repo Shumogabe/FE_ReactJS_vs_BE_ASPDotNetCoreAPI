@@ -1,0 +1,27 @@
+.home .bg-hotnew {
+  background-color: #5082b3;
+  color: white;
+  text-transform: uppercase;
+  font-size: larger;
+}
+.home .list-group-item {
+  background-color: #e9f3fd;
+  color: black;
+}
+.home .list-group-item a {
+  color: black;
+}
+.home .list-group-item a:hover {
+  color: #0050ff;
+}
+.home .card.bg-green {
+  height: 400px;
+}
+.home .list-group.list-group-flush {
+  overflow: auto;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: white;
+  background-color: #016d38;
+}

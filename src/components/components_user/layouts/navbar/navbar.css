@@ -1,0 +1,62 @@
+.navbar-collapse {
+  z-index: 9999;
+}
+.nav-bar .nav-backgr {
+  background-color: #016d38 !important;
+  padding: 0;
+}
+.nav-bar .nav-mar a {
+  color: white !important;
+}
+.nav-bar .nav-mar .btn-outline-success {
+  color: white;
+  border-color: white;
+}
+.nav-bar .nav-mar ul {
+  background-color: #016d38;
+}
+.nav-bar .dropdown-menu {
+  padding: 0 0 !important;
+}
+.nav-bar .nav-mar .dropdown-item {
+  background-color: #6ac23f;
+  border-bottom: 1px solid white;
+}
+.nav-bar .nav-mar .nav-item:hover {
+  background-color: #6ac23f;
+}
+.nav-bar .nav-mar .dropdown-item:hover {
+  background-color: #016d38;
+}
+.nav-bar .nav-mar .active {
+  background-color: #6ac23f;
+}
+.nav-bar .nav-item .menu {
+  position: absolute;
+  padding: 0px;
+}
+.nav-bar .menu li {
+  display: block;
+}
+.nav-bar .dropdown-menu li {
+  margin: 0;
+  padding: 0px;
+  width: auto;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0 !important;
+}
+.btn-login {
+  display: none;
+}
+.container .navbar-nav .nav-item.dropdown .dropdown-menu {
+  font-size: medium !important;
+}
+.container .navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+}
+@media screen and (max-width: 992px) {
+  .btn-login {
+    display: block;
+  }
+}

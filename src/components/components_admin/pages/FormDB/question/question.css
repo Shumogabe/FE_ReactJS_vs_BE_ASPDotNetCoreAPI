@@ -1,0 +1,33 @@
+.container-fluid .card .card-body .table-responsive .row .custom-select {
+  display: block;
+}
+.container-fluid .card .card-body .table-responsive .row label {
+  display: -webkit-inline-box;
+}
+.container-fluid .card .card-body .table-responsive .row .pagination {
+  display: flex;
+  justify-content: center;
+}
+.container-fluid .card .card-body .table-responsive .row .custom-select {
+  width: 60px;
+  margin: 0px 10px;
+}
+.container-fluid .card .card-body .table-responsive .row .col-md-3 {
+  margin-left: -105px;
+}
+.container-fluid
+  .card
+  .card-body
+  .table-responsive
+  .row
+  .col-md-3
+  .dataTables_filter
+  span {
+  font-size: x-large;
+}
+@media (max-width: 992px) {
+  .container-fluid .card .card-body .table-responsive .row .col-md-3 {
+    margin-left: 0px;
+    width: 188px;
+  }
+}

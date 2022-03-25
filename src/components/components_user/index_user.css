@@ -1,0 +1,21 @@
+.container a {
+  text-decoration: none !important;
+}
+@media screen and (max-width: 800px) {
+  .content-main {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .content-sidebar {
+    display: none;
+  }
+}
+.main .to-top {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  font-size: 184%;
+  background: #6ac23f;
+}
+.main .container .content-main .content {
+  color: black;
+}

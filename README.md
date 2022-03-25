@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+==============================================================================================================
+
+# use ckeditor
+
+npm i @ckeditor/ckeditor5-react
+npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+
+# use router
+
+npm i react-router-dom
+
+# use axios
+
+npm install --save axios query-string
+
+# .env
+
+Các biến môi trường luôn bắt đầu bằng REACT*APP*

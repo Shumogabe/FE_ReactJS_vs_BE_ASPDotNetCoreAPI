@@ -1,0 +1,24 @@
+footer {
+  background: #016d38;
+  color: #ffffff;
+  font-weight: normal;
+  padding: 10px;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+footer a:hover {
+  color: #6ac23f;
+}
+footer .info img {
+  width: 60px;
+}
+footer .container .row .col-5 p {
+  text-align: left;
+}
+@media screen and (max-width: 800px) {
+  footer .col-3 {
+    max-width: 120px;
+  }
+}

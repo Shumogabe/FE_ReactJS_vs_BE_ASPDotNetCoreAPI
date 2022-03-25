@@ -1,0 +1,9 @@
+header {
+  text-align: center;
+}
+header .img-header {
+  max-width: 100%;
+  height: auto;
+  /* box-shadow: 53px -2px 8px 28px #1e8e47, -25px -22px 8px 55px #6ac23f; */
+  box-shadow: 200px -2px 8px 28px #1e8e47, -160px -22px 8px 55px #6ac23f;
+}
